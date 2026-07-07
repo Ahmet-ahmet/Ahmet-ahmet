@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-label="Ahmet Arda Çağlar — Backend Developer · Data &amp; AI">
+  
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="300" rx="16"></rect></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#180a11"></stop>
+      <stop offset="1" stop-color="#0c0609"></stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.15" r="0.8">
+      <stop offset="0" stop-color="#a02c50" stop-opacity="0.5"></stop>
+      <stop offset="0.55" stop-color="#8e2145" stop-opacity="0.16"></stop>
+      <stop offset="1" stop-color="#8e2145" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6e1b36"></stop>
+      <stop offset="1" stop-color="#380d1e"></stop>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="18"></feGaussianBlur></filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="300" fill="url(#bg)"></rect>
+    <rect width="1000" height="300" fill="url(#glow)">
+      
+    </rect>
+
+    <ellipse cx="130" cy="60" rx="210" ry="105" fill="#7a1c3c" opacity="0.30" filter="url(#soft)"></ellipse>
+    <ellipse cx="880" cy="95" rx="190" ry="115" fill="#5c1430" opacity="0.35" filter="url(#soft)"></ellipse>
+    <ellipse cx="500" cy="150" rx="270" ry="110" fill="#a94a68" opacity="0.16" filter="url(#soft)"></ellipse>
+
+    <text x="70" y="52" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="15" fill="#d78ba1" opacity="0.28">&lt;/&gt;</text>
+    <text x="912" y="58" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="15" fill="#d78ba1" opacity="0.22">{ }</text>
+
+    <circle cx="120" cy="212" r="2" fill="#e58aa5" opacity="0.5"></circle>
+    <circle cx="868" cy="62" r="2.5" fill="#e58aa5" opacity="0.4">
+      
+    </circle>
+    <circle cx="760" cy="182" r="1.5" fill="#e58aa5" opacity="0.35"></circle>
+    <circle cx="238" cy="82" r="2" fill="#e58aa5" opacity="0.4">
+      
+    </circle>
+    <circle cx="502" cy="52" r="1.5" fill="#e58aa5" opacity="0.3"></circle>
+
+    <g opacity="0.22">
+      <path d="M-100,225 C120,190 320,260 520,228 C720,196 880,250 1100,215 L1100,300 L-100,300 Z" fill="#8e2145">
+        
+      </path>
+    </g>
+    <g opacity="0.38">
+      <path d="M-100,250 C140,215 340,285 560,250 C760,220 920,272 1100,240 L1100,300 L-100,300 Z" fill="#a02c50">
+        
+      </path>
+    </g>
+    <g>
+      <path d="M-100,272 C160,245 380,300 600,272 C800,248 950,290 1100,265 L1100,300 L-100,300 Z" fill="url(#w3)">
+        
+      </path>
+    </g>
+
+    
+    <text x="500" y="142" text-anchor="middle" font-family="&#39;Segoe UI&#39;, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="47" font-weight="700" fill="#f6e7ec" letter-spacing="0.5">Ahmet Arda Çağlar</text>
+    
+    <text x="500" y="184" text-anchor="middle" font-family="&#39;Segoe UI&#39;, &#39;Helvetica Neue&#39;, Arial, sans-serif" font-size="15" font-weight="600" fill="#d78ba1" letter-spacing="5">BACKEND DEVELOPER · DATA &amp; AI</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="299" rx="15.5" fill="none" stroke="#b03d5f" stroke-opacity="0.25"></rect>
+</svg>
